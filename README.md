@@ -1,2 +1,2 @@
-# Wordle-
-Building next generation of Wordle game
+# WordGame
+ A more advance wordle like word game
